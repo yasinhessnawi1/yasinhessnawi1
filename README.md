@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my bachelor thesis in deprecating sensitive information form pdfs <br>🌱 I’m currently learning AI integration <br>💬 Ask me about anything<br>
+🔭 I’m currently working on my bachelor thesis in censoring sensitive information from pdfs <br>🌱 I’m currently in the process of learning AI integration <br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
