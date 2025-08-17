@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my bachelor thesis in censoring sensitive information from pdfs <br>🌱 I’m currently in the process of learning AI integration <br>💬 Ask me about anything<br>
+🔭 I’m currently working on my SAAS SafeMediAI <br>🌱 I’m currently in the process of taking an engineering masters in AI and Internet of things <br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
