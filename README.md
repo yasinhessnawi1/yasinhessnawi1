@@ -1,6 +1,6 @@
 # 💫 About Me:
 - My name is Yasin Hessnawi
-- 🔭 I’m currently working on [Glive](https://g-live.vercel.app)
+- 🔭 I’m currently working on [Open Persona](https://.vercel.app)
 
 - 🌱 I’m currently learning **AI**
 
