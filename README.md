@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AI**
 
-- 👯 I’m looking to collaborate on [Declassifai](https://declassifai.com)
+- 👯 I’m looking to collaborate on [Open Persona](https://.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://yasinhessnnawi.online](https://yasinhessnnawi.online)
 
